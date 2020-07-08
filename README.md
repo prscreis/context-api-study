@@ -1,3 +1,7 @@
+# Sobre
+
+Projeto de estudo da Context API do [ReactJS](https://reactjs.org/). Vídeo aula de [Guilherme Rodz](https://github.com/guilhermerodz): https://www.youtube.com/watch?v=FsCBw9X9U84
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
